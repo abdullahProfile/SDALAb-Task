@@ -1,5 +1,4 @@
 package com.example;
-package com.example.observer;   // Error: Duplicate package com.example in file
 public class OctalObserver extends Observer{
 
    public OctalObserver(Subject subject){

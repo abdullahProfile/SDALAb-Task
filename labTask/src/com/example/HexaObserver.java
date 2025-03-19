@@ -1,5 +1,4 @@
 package com.example;
-import com.example.observer;
 public class HexaObserver extends Observer{
 
    public HexaObserver(Subject subject){
